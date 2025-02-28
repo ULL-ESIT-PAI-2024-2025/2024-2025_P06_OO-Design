@@ -1,7 +1,7 @@
 {
-  "name": "Práctica 5 de PAI",
+  "name": "Práctica 6 de PAI",
   "version": "1.0.0",
-  "description": "OOP en TS",
+  "description": "OO Design",
   "private": true,
   "main": "index.js",
   "scripts": {
