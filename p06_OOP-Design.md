@@ -132,7 +132,8 @@ Utilice la clase `ChessBoard` para obtener una solución orientada a objetos del
 [Queens](https://jutge.org/problems/P16415_en) de Jutge.
 
 Para este problema, desarrolle tests que comprueben el correcto funcionamiento de su programa para diferentes
-valores de N.
+valores de N. Realice también tests para todas las funciones o métodos que precise para desarrollar su
+programa.
 El número de soluciones para diferentes valores de N puede consultarse en 
 [esta referencia](http://www.durangobill.com/N_Queens.html)
 
